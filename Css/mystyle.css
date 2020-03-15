@@ -1,0 +1,16 @@
+.col1{ background: #FF76DC;
+	font-family: timesnewomran;
+}
+.col3 { background: #FFB057;
+font-family: timesnewroman;}
+.row .col2 img {
+    margin-left: 20px;
+    position: relative;
+}
+
+.col4{
+    margin-right: 30px;
+    margin-left: 20px;
+}
+.row{ background-color: #77D4FB;
+}
